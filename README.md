@@ -1,1 +1,1 @@
-added a readme
+added git dir
